@@ -37,7 +37,7 @@ public class LogInTest {
 
         provideTextInWebElementXPATH("Username or email", "TextUser");
 
-        System.out.println("User can log in");
+        System.out.println("User can log in.");
     }
 
     @Test
